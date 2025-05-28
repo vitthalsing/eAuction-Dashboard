@@ -2,7 +2,7 @@
 
 
 # Scarape from below website
-https://www.eauctionsindia.com/cars/maharashtra-car-auctions
+https://www.eauctionsindia.com/category/vehicle-auctions
 
 # Store scrapped website data
 
